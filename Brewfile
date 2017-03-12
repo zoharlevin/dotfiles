@@ -7,10 +7,10 @@ tap 'homebrew/test-bot'
 tap 'homebrew/versions'
 cask 'java'
 cask 'android-studio'
-brew 'git'
-brew 'node'
-brew 'mas'
 cask 'google-chrome'
+brew 'git'
+brew 'node@4'
+brew 'mas'
 mas 'Remote Desktop', id: 409907375
 mas 'Xcode', id: 497799835
 mas 'Slack', id: 803453959
