@@ -38,3 +38,7 @@ fi
 # alternate mappings for Ctrl-U/V to search the history
 bind '"^u" history-search-backward'
 bind '"^v" history-search-forward'
+
+if [ -f "$HOME/.env" ]; then
+  source $HOME/.env
+fi
