@@ -14,5 +14,5 @@ brew 'node@6'
 brew 'yarn'
 brew 'mas'
 brew 'android-sdk'
-mas 'Xcode', id: 497799835
+#mas 'Xcode', id: 497799835
 mas 'Slack', id: 803453959
