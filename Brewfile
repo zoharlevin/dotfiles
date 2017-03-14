@@ -8,11 +8,16 @@ tap 'homebrew/versions'
 cask 'java'
 cask 'android-studio'
 cask 'google-chrome'
-#cask 'remote-desktop-connection'
+cask 'iterm2'
+cask 'dropbox'
+cask 'keepassx'
+cask 'docker'
 brew 'git'
 brew 'node@6'
 brew 'yarn'
 brew 'mas'
 brew 'android-sdk'
-#mas 'Xcode', id: 497799835
+brew 'heroku'
+mas 'Microsoft Remote Desktop', id: 715768417
 mas 'Slack', id: 803453959
+mas 'Xcode', id: 497799835
