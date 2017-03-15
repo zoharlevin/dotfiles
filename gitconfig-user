@@ -1,0 +1,14 @@
+[user]
+	# Name used in commit messages.
+	name = Mike McQuaid
+	# Email used in commit messages.
+	email = or@soluto.com
+[shell]
+	# Default SSH username.
+	username = or
+[bintray]
+	# Bintray username.
+	username = oryagel
+[github]
+	# GitHub username for command-line tools.
+	user = oryagel
