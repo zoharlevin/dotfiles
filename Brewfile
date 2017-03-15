@@ -14,7 +14,7 @@ cask 'keepassx'
 cask 'docker'
 cask 'sourcetree'
 brew 'git'
-brew 'node@6'
+brew 'node@6', args: ['without-npm']
 brew 'yarn'
 brew 'mas'
 brew 'android-sdk'
