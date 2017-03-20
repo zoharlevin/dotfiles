@@ -14,6 +14,7 @@ cask 'keepassx'
 cask 'docker'
 cask 'sourcetree'
 cask 'keepingyouawake'
+cask 'ngrok'
 brew 'git'
 brew 'node@6', args: ['without-npm']
 brew 'yarn'
@@ -21,7 +22,6 @@ brew 'mas'
 brew 'android-sdk'
 brew 'heroku'
 brew 'watchman'
-brew 'ngrok'
 mas 'Microsoft Remote Desktop', id: 715768417
 mas 'Slack', id: 803453959
 mas 'Xcode', id: 497799835
