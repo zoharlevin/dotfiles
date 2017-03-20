@@ -20,6 +20,7 @@ brew 'mas'
 brew 'android-sdk'
 brew 'heroku'
 brew 'watchman'
+brew 'ngrok'
 mas 'Microsoft Remote Desktop', id: 715768417
 mas 'Slack', id: 803453959
 mas 'Xcode', id: 497799835
