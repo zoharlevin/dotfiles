@@ -13,6 +13,7 @@ cask 'dropbox'
 cask 'keepassx'
 cask 'docker'
 cask 'sourcetree'
+cask 'keepingyouawake'
 brew 'git'
 brew 'node@6', args: ['without-npm']
 brew 'yarn'
