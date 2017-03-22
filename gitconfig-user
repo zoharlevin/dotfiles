@@ -1,14 +1,14 @@
 [user]
 	# Name used in commit messages.
-	name = Mike McQuaid
+	name = Zohar Levin
 	# Email used in commit messages.
-	email = or@soluto.com
+	email = zohar@soluto.com
 [shell]
 	# Default SSH username.
-	username = or
+	username = zohar
 [bintray]
 	# Bintray username.
-	username = oryagel
+	username = zoharlevin
 [github]
 	# GitHub username for command-line tools.
-	user = oryagel
+	user = zoharlevin
